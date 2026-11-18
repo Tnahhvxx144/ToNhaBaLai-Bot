@@ -1,14 +1,14 @@
 {
-  "name": "VanDuBot",
+  "name": "ToConNhaBaLaiBot",
   "bot-account": {
-    "username": "VanDuBot",
+    "username": "ToConNhaBaLai_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "BinvuServerDP.aternos.me",
     "port": 22804,
-    "version": "",
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "dayum broo",
-        "bay gin skibidi",
-        "diddy bidikimibi"
+        "Mày bị đơ à",
+        "Tao nhiều mỡ chứ không thừa cơ",
+        "I'm mỡ"
       ]
     },
     "chat-log": true,
@@ -60,7 +60,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
